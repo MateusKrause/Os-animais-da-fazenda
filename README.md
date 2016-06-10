@@ -12,6 +12,6 @@ Em desenvolvimento:
 - Dê comida aos animais com o alimento correto! 
 - Interaja com as pessoas para receber dicas!
 
-# ATENÇÂO:
+# ATENÇÃO:
 Esse jogo esta em uma fase de desenvolvimento, por ainda estar em um estágio bem inicial, nao possui controles, somente o cenario pronto.
 
